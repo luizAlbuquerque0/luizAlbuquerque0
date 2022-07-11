@@ -1,5 +1,5 @@
 # Olá, eu sou o Luiz Alberto Albuquerque
-<h2>Voc pode acessar meu portifólio clicando em: <a href="https://devluizalbuquerque.com/"> <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </h2>
+<h2>Você pode acessar meu portifólio clicando em: <a href="https://devluizalbuquerque.com/"> <img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"> </h2>
 
 <div align="center">
   <a href="https://github.com/luizAlbuquerque0">
