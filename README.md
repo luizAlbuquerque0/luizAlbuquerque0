@@ -21,8 +21,5 @@
 <div style="display: inline_block">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt=".NET Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="RabbitMQ" width="40" height="40" hspace="5" src="https://cdn.iconscout.com/icon/free/png-256/rabbitmq-282296.png" />
-  <img align="center" alt="Azure" width="40" height="40" hspace="5" src="https://iconape.com/wp-content/png_logo_vector/microsoft-azure-logo.png" />
-  <img align="center" alt="Angular" width="40" height="40" hspace="5" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_angular_icon_130754.png" />
-  <img align="center" alt="Docker" width="50" height="50" hspace="5" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/docker_original_wordmark_logo_icon_146557.png" />
+   
 </div>
