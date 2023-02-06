@@ -1,5 +1,5 @@
 # Olá, eu sou o Luiz Alberto Albuquerque
-<h2>Você pode acessar meu portifólio clicando em: <a href="https://devluizalbuquerque.com/">Meu porifólio</a>  </h2>
+<h2>Você pode acessar meu portifólio clicando em: <a href="https://devluizalbuquerque.com/">Meu portifólio</a>  </h2>
 
 <div align="center">
   <a href="https://github.com/luizAlbuquerque0">
