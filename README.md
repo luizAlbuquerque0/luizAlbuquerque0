@@ -1,26 +1,18 @@
-# Olá, eu sou o Luiz Alberto Albuquerque
-<h2>Você pode acessar meu portifólio clicando em: <a href="https://devluizalbuquerque.com/">Meu portifólio</a>  </h2>
+<h2>You can find my portfolio here: <a href="https://devluizalbuquerque.com/">Click me</a>  </h2>
 
-<div align="center">
-  <a href="https://github.com/luizAlbuquerque0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizAlbuquerque0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizAlbuquerque0&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+# 💫 About Me:
+Hi there! I'm a passionate C# ASP .NET Core developer .Currently studying software engineering at Estacio, I'm always looking for ways to improve my skills and knowledge in this field. I specialize in writing efficient and performant code using best practices and design patterns. When I'm not coding, you can find me playing chess, which is both a fun hobby and a way to sharpen my problem-solving and strategic thinking skills.
 
-# Habilidades:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt=".NET Core" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
-   <img align="center" alt="git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg">
-</div>
 
-# Estudando atualmente:
-<div style="display: inline_block">
-  
-   
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luiz-alberto-albuquerque) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=luizAlbuquerque0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=luizAlbuquerque0&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luizAlbuquerque0&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=luizAlbuquerque0&icon=0&color=0)](https://visitcount.itsvg.in)
