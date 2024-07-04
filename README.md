@@ -1,7 +1,7 @@
 <h2>You can find my portfolio here: <a href="https://devluizalbuquerque.com/">Click me</a>  </h2>
 
 # 💫 About Me:
-Hi there! I'm a passionate C# ASP .NET Core developer .Currently studying software engineering at Estacio, I'm always looking for ways to improve my skills and knowledge in this field. I specialize in writing efficient and performant code using best practices and design patterns. When I'm not coding, you can find me playing chess, which is both a fun hobby and a way to sharpen my problem-solving and strategic thinking skills.
+Hi there! I'm a passionate React and C# ASP .NET Core developer .Currently studying software engineering at Estacio, I'm always looking for ways to improve my skills and knowledge in this field. I specialize in writing efficient and performant code using best practices and design patterns. When I'm not coding, you can find me playing chess, which is both a fun hobby and a way to sharpen my problem-solving and strategic thinking skills.
 
 
 ## 🌐 Socials:
